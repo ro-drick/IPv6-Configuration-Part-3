@@ -3,6 +3,8 @@
 #### 1. **Lab Overview**
 This Packet Tracer lab focuses on setting up an IPv6 network with static routing and SLAAC (Stateless Address Autoconfiguration). The topology includes three routers (R1, R2, and R3), two switches, and two PCs. The serial connections between the routers use IPv6 link-local addresses only, while global unicast IPv6 addresses are assigned to GigabitEthernet interfaces. Your task is to configure IPv6 routing, enable SLAAC for the PCs, and set up static routes to ensure end-to-end connectivity between PC1 and PC2.
 
+<img src= "https://github.com/ro-drick/IPv6-Configuration-Part-3/blob/main/ipv6-3.PNG">
+
 ---
 
 #### 2. **Network Topology**
